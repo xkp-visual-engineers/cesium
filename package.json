@@ -34,9 +34,7 @@
   "exports": {
     "./package.json": "./package.json",
     "./Source/*": "./Source/*",
-    "./Source/*.js": null,
     "./Build/*": "./Build/*",
-    "./Build/*.js": null,
     ".": {
       "types": "./Source/Cesium.d.ts",
       "require": "./index.cjs",
